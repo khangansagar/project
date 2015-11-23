@@ -7,5 +7,11 @@
       <schema-pattern>mysite.pg_catalog mysite.public</schema-pattern>
       <default-schemas>mysite.pg_catalog mysite.public</default-schemas>
     </data-source>
+    <data-source name="Django default" uuid="f8917022-ef8d-4657-9c37-c898b5561f66">
+      <user-name>consultadd</user-name>
+      <user-password>dfc9dfc5dfc4dfd9dfdfdfc6dfdedfcbdfcedfce</user-password>
+      <schema-pattern>mysite.pg_catalog mysite.public</schema-pattern>
+      <default-schemas>mysite.pg_catalog mysite.public</default-schemas>
+    </data-source>
   </component>
 </project>
